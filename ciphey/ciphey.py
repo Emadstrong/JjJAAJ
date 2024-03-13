@@ -59,7 +59,7 @@ def print_help(ctx):
 @click.option(
     "-t",
     "--text",
-    help="The ciphertext you want to decrypt.",
+    help="AAAADEPMQ+Ux5anuwdi+b0OJspqjJk0kzrt2cXcVfiTq35yfk836DiZGY/4y5ZBi2pb58d+e8GtezfY7EGayyHk",
     type=str,
 )
 @click.option(
